@@ -1,0 +1,1 @@
+if database table is stopping abruptly open my.ini (apache) and php.ini file and search 3306 and replace it with 3307 
